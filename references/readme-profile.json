@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 140｜Dry-media Visual Island: distils a photo into one small centred vignette, a visual island taking about a quarter to a third of the design, painted in opaque gouache, oil pastel and dry brush with broad simplified colour blocks, short rough strokes, paper showing through, dry-brush grain and irregular edges that break off and fade with no frame, in the photo's 2–4 brightest, liveliest colours lifted to a sunlit freshness on lots of clean warm white, with one short thin handwritten line nearby. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-140 or asks for gouache and oil pastel vignettes, dry-brush travel-journal sketches or small centred painted islands from a photo.",
+  "short_description": "干性手绘视觉岛：把照片画成白纸中央一小块水粉油画棒视觉岛，配一句纤细手写",
+  "zh-CN": {
+    "name": "干性手绘视觉岛",
+    "tagline": "把照片提炼成白纸中央一小块水粉油画棒画，像被珍藏的一段记忆。",
+    "look": "照片被概括成一枚居中的小画，只占设计区的四分之一到三分之一左右，四周是大片干净暖白。画法是不透明水粉、油画棒、粉蜡笔加干刷：概括的大色块、短促粗粝的笔触，纸张透底、干刷颗粒明显，局部有一点厚涂；边缘不规则地断开、淡出，没有方框，也不是水彩晕染。颜色只挑照片里最明亮鲜活的 2–4 种，提亮成暖黄、橙、嫩绿、天空蓝、湖水青、珊瑚粉这类阳光感的色。下方或旁边配一句纤细、略歪的手写短句。",
+    "traits": [
+      "居中微小视觉岛",
+      "不透明水粉与油画棒",
+      "干笔颗粒",
+      "不规则边缘",
+      "2–4 种鲜活源图色"
+    ],
+    "good": [
+      "阳光明亮、颜色鲜活的旅行或日常照：海滩、花园、果摊、夏天的街道",
+      "有一个值得留住的小场景：树下的长椅、窗边的花、湖边的小船",
+      "想做成旅行手记、明信片或治愈系壁纸的照片"
+    ],
+    "poor": [
+      "阴暗、低调或夜景照片，画面会被强行提亮",
+      "需要精细描边、写实塑造或保留完整场景的图",
+      "想要柔软水彩晕染、复古发旧色或铺满整张的画面"
+    ]
+  },
+  "en": {
+    "name": "Dry-media Visual Island",
+    "tagline": "Distils your photo into a small gouache and oil-pastel island in the middle of a white page, like a kept memory.",
+    "look": "The photo is condensed into one small centred painting, roughly a quarter to a third of the design area, surrounded by plenty of clean warm white. It is painted in opaque gouache, oil pastel and soft pastel with dry brush: broad simplified colour blocks, short rough strokes, paper showing through, obvious dry-brush grain and a touch of thicker paint, with edges that break off and fade irregularly, no frame and no soft watercolour bleed. Only the photo's two to four brightest, liveliest colours are used, lifted into sunlit tones such as warm yellow, orange, fresh green, sky blue, lake teal and coral pink. A single short line in thin, slightly slanted handwriting sits below or beside it.",
+    "traits": [
+      "Small centred visual island",
+      "Opaque gouache and oil pastel",
+      "Dry-brush grain",
+      "Irregular broken edges",
+      "2–4 lively colours from the photo"
+    ],
+    "good": [
+      "Bright, colourful travel or everyday photos: a beach, a garden, a fruit stall, a summer street",
+      "A small scene worth keeping: a bench under a tree, flowers by a window, a boat on a lake",
+      "Photos for a travel journal, postcard or calming wallpaper"
+    ],
+    "poor": [
+      "Dark, low-key or night photos, which get pushed much brighter",
+      "Images that need fine outlines, realistic modelling or the whole scene kept",
+      "Requests for soft watercolour bleeds, faded vintage colour or a picture that fills the page"
+    ]
+  },
+  "ja": {
+    "name": "乾性手描きの視覚島",
+    "tagline": "写真を白い紙の真ん中の小さなガッシュとオイルパステルの絵にまとめ、大切にしまった記憶のようにします。",
+    "look": "写真は中央に置いた一枚の小さな絵に凝縮され、デザイン部分のおよそ四分の一から三分の一ほどを占め、周りはたっぷりのきれいな温白です。描き方は不透明ガッシュ、オイルパステル、ソフトパステルにドライブラシを合わせたもの。大きくまとめた色面、短くざらついた筆致、紙の透け、はっきりしたドライブラシの粒子、ところどころ厚めの絵具。縁は不規則に途切れて消えていき、枠はなく、水彩のにじみでもありません。色は写真でいちばん明るく生き生きとした 2〜4 色だけを選び、暖かい黄、オレンジ、若草色、空色、湖の青緑、コーラルピンクのような日差しを感じる色に明るくします。下かそばに、細く少し傾いた手書きの短い一文を添えます。",
+    "traits": [
+      "中央の小さな視覚島",
+      "不透明ガッシュとオイルパステル",
+      "ドライブラシの粒子",
+      "不規則な縁",
+      "写真から取った生き生きした 2〜4 色"
+    ],
+    "good": [
+      "明るく色鮮やかな旅や日常の写真：海辺、庭、果物の露店、夏の通り",
+      "残しておきたい小さな場面：木陰のベンチ、窓辺の花、湖の小舟",
+      "旅のノート、ポストカード、癒やし系の壁紙にしたい写真"
+    ],
+    "poor": [
+      "暗い、ローキー、夜景の写真（無理に明るくなります）",
+      "細い縁取り、写実的な立体感、場面全体の再現が必要な画像",
+      "柔らかな水彩のにじみ、色あせたレトロ色、紙いっぱいの絵を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "건식 손그림 시각 섬",
+    "tagline": "사진을 흰 종이 한가운데의 작은 과슈·오일 파스텔 그림으로 압축해, 소중히 간직한 기억처럼 만듭니다.",
+    "look": "사진은 가운데 놓인 작은 그림 한 점으로 압축되어 디자인 영역의 약 4분의 1에서 3분의 1을 차지하고, 주변은 넉넉하고 깨끗한 따뜻한 흰색입니다. 불투명 과슈, 오일 파스텔, 소프트 파스텔에 드라이 브러시를 더해 그립니다. 크게 정리한 색면, 짧고 거친 붓질, 비치는 종이, 뚜렷한 드라이 브러시 입자, 군데군데 두껍게 올린 물감이 있고, 가장자리는 불규칙하게 끊기며 사라지고 테두리 상자는 없으며 수채 번짐도 아닙니다. 색은 사진에서 가장 밝고 생기 있는 2~4가지만 골라 따뜻한 노랑, 주황, 연두, 하늘색, 호수 청록, 코랄 핑크처럼 햇살 같은 색으로 밝힙니다. 아래나 옆에는 가늘고 살짝 기울어진 손글씨 짧은 문장 하나를 둡니다.",
+    "traits": [
+      "가운데의 작은 시각 섬",
+      "불투명 과슈와 오일 파스텔",
+      "드라이 브러시 입자",
+      "불규칙한 가장자리",
+      "사진에서 뽑은 생기 있는 2~4색"
+    ],
+    "good": [
+      "밝고 색이 생생한 여행·일상 사진: 해변, 정원, 과일 노점, 여름 거리",
+      "남겨 두고 싶은 작은 장면: 나무 아래 벤치, 창가의 꽃, 호숫가의 작은 배",
+      "여행 노트, 엽서, 힐링 배경화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "어둡거나 로키, 야경 사진(억지로 밝아집니다)",
+      "섬세한 윤곽선, 사실적인 입체감, 장면 전체가 필요한 이미지",
+      "부드러운 수채 번짐, 바랜 레트로 색, 종이를 가득 채운 그림을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "جزيرة بصرية بوسائط جافة",
+    "tagline": "يختزل صورتك في جزيرة صغيرة مرسومة بالغواش والباستيل الزيتي وسط صفحة بيضاء، كذكرى محفوظة.",
+    "look": "تُكثَّف الصورة في لوحة صغيرة واحدة في المنتصف، تشغل نحو ربع إلى ثلث مساحة التصميم، ويحيط بها أبيض دافئ نظيف واسع. تُرسم بالغواش المعتم والباستيل الزيتي والباستيل الطري مع الفرشاة الجافة: كتل لونية عريضة مبسّطة، وضربات قصيرة خشنة، وورق يظهر من بين الألوان، وحبيبات واضحة للفرشاة الجافة، ولمسة طلاء أسمك هنا وهناك، مع حواف تنقطع وتتلاشى بشكل غير منتظم، بلا إطار ولا انسياب مائي ناعم. لا تُستخدم إلا ألمع ألوان الصورة وأكثرها حيوية، من اثنين إلى أربعة، وتُرفع إلى درجات مشمسة كالأصفر الدافئ والبرتقالي والأخضر الطري والأزرق السماوي وأخضر البحيرة والوردي المرجاني. وتحتها أو بجانبها جملة قصيرة واحدة بخط يد رفيع مائل قليلاً.",
+    "traits": [
+      "جزيرة بصرية صغيرة في المنتصف",
+      "غواش معتم وباستيل زيتي",
+      "حبيبات الفرشاة الجافة",
+      "حواف متكسّرة غير منتظمة",
+      "ألوان حيّة من الصورة (2–4)"
+    ],
+    "good": [
+      "صور سفر أو حياة يومية مشرقة وملوّنة: شاطئ، حديقة، كشك فواكه، شارع صيفي",
+      "مشهد صغير يستحق الاحتفاظ به: مقعد تحت شجرة، زهور قرب نافذة، قارب على بحيرة",
+      "صور لدفتر سفر أو بطاقة بريدية أو خلفية هادئة"
+    ],
+    "poor": [
+      "صور داكنة أو منخفضة الإضاءة أو ليلية، إذ تُرفع إضاءتها كثيراً",
+      "صور تحتاج إلى خطوط خارجية دقيقة أو تجسيم واقعي أو الإبقاء على المشهد كاملاً",
+      "طلب انسيابات مائية ناعمة أو ألوان قديمة باهتة أو لوحة تملأ الصفحة"
+    ]
+  }
+}
